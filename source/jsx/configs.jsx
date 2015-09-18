@@ -9,8 +9,8 @@ define([], function() {
     var local = {
         env: 'local',
         Skylink: {
-            apiMCUKey: '7bcba74c-ee42-4fb7-ba17-94a9edb3c1bf',
-            apiNoMCUKey: '7e31b061-71e6-4dd7-bd55-516579973930'
+            apiMCUKey: '3ed54c91-8d60-4908-91f5-f315157567ca',
+            apiNoMCUKey: '3ed54c91-8d60-4908-91f5-f315157567ca'
         },
         maxUsers: 4
     };
@@ -18,8 +18,8 @@ define([], function() {
     var dev = {
         env: 'dev',
         Skylink: {
-            apiMCUKey: '7bcba74c-ee42-4fb7-ba17-94a9edb3c1bf',
-            apiNoMCUKey: '7e31b061-71e6-4dd7-bd55-516579973930'
+            apiMCUKey: '3ed54c91-8d60-4908-91f5-f315157567ca',
+            apiNoMCUKey: '3ed54c91-8d60-4908-91f5-f315157567ca'
         },
         maxUsers: 4
     };
@@ -27,8 +27,8 @@ define([], function() {
     var prod = {
         env: 'prod',
         Skylink: {
-            apiMCUKey: '7bcba74c-ee42-4fb7-ba17-94a9edb3c1bf',
-            apiNoMCUKey: '7e31b061-71e6-4dd7-bd55-516579973930'
+            apiMCUKey: '3ed54c91-8d60-4908-91f5-f315157567ca',
+            apiNoMCUKey: '3ed54c91-8d60-4908-91f5-f315157567ca'
         },
         maxUsers: 4
     };
