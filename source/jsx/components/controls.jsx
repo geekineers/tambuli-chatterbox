@@ -83,7 +83,7 @@ define([
             })[0];
 
            res.push(
-                <div className="logo">getaroom.io</div>
+                <div className="logo">chatterbox</div>
                 );
 
             if(this.props.state.state === Constants.AppState.FOYER) {
