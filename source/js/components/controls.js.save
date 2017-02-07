@@ -83,7 +83,7 @@ define([
             })[0];
 
            res.push(
-                React.DOM.div({className: "logo"}, "chatterbox")
+                React.DOM.div({className: "logo"}, "g)
                 );
 
             if(this.props.state.state === Constants.AppState.FOYER) {
